@@ -64,9 +64,7 @@ Esse trabalho envolve colaboração com áreas de **segurança da informação, 
 
 ## 📫 Contato
 
-* LinkedIn: [seu-linkedin]
-* Email: [seu-email]
-* GitHub: [seu-usuario]
+* LinkedIn: https://www.linkedin.com/in/cauefsantos/
 
 ---
 
