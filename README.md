@@ -1,13 +1,73 @@
-# Oi, eu sou o Cauê! 👋
+# 👋 Olá, eu sou Cauê
 
-Gosto muito de estudar sobre tecnologia e aprender novas ferramentas. Atualmente buscando minha primeira oportunidade como desenvolvedor.
+Desenvolvedor **Full-Stack** com foco em criação de aplicações modernas, escaláveis e seguras. Minha experiência combina desenvolvimento web com integração de soluções corporativas, especialmente em ambientes que exigem **gestão de identidades e controle de acesso**.
 
-[![LinkedIn: Cauê Santos](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cauefsantos/)
+Tenho atuado tanto na construção de aplicações front-end modernas quanto na customização de soluções empresariais, trabalhando próximo de equipes de segurança, arquitetura e infraestrutura.
 
-## Algumas coisas sobre mim:
+---
 
- - :book: Cursando ensino superior tecnólogo em Análise e Desenvolvimento de Sistemas na FIAP (previsão de formação em julho de 2025) :book:
- - :coffee: Me aperfeiçoando na linguagem Java :coffee:
- - :dart: 2 anos de vivência com metodologia ágil Scrum :dart:
+## 🚀 Principais Tecnologias
 
-[![cauefsantos](https://github-readme-stats.vercel.app/api/top-langs/?username=cauefsantos&hide=html&title_color=783c00&text_color=af552e&bg_color=f8efd4)](https://github.com/anuraghazra/github-readme-stats)
+**Front-end**
+
+* Svelte
+* JavaScript / TypeScript
+* Angular
+* HTML5 / CSS3
+
+**Back-end e Integrações**
+
+* C#
+* VB.NET
+* APIs REST
+* Automação de workflows
+
+**Arquitetura e Plataformas**
+
+* Microfrontends
+* Integração com soluções de Gestão de Identidades (IAM)
+* Desenvolvimento Full-Stack
+* Integração entre sistemas corporativos
+
+---
+
+## 💼 Experiência Profissional
+
+### Desenvolvimento Full-Stack
+
+Experiência na construção de aplicações web modernas utilizando **Svelte e JavaScript**, focando em desempenho, experiência do usuário e arquitetura escalável.
+
+Atuação no desenvolvimento de interfaces dinâmicas, integração com APIs e implementação de boas práticas de engenharia de software.
+
+### Gestão de Identidades e Acessos (IAM)
+
+Atualmente trabalho com **implantação e customização de soluções de Gestão de Identidades**, participando de projetos corporativos que envolvem:
+
+* Automação de processos de identidade
+* Customização de **microfrontends em Angular**
+* Implementação de **workflows utilizando C# e VB.NET**
+* Integração com sistemas corporativos e diretórios de usuários
+
+Esse trabalho envolve colaboração com áreas de **segurança da informação, governança e arquitetura**, garantindo que as soluções implementadas sejam seguras, auditáveis e escaláveis.
+
+---
+
+## 🎯 Interesses Técnicos
+
+* Arquiteturas modernas de front-end
+* Segurança de aplicações
+* Gestão de Identidades e Acessos (IAM)
+* Automação de processos corporativos
+* Integração entre sistemas distribuídos
+
+---
+
+## 📫 Contato
+
+* LinkedIn: [seu-linkedin]
+* Email: [seu-email]
+* GitHub: [seu-usuario]
+
+---
+
+⭐ Sempre explorando novas tecnologias e buscando construir soluções que unam **boa engenharia de software, segurança e experiência do usuário**.
